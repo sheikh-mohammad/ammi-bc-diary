@@ -49,3 +49,8 @@ Thumbs.db
 # Next.js
 .next
 out
+
+# Environment variables (secrets — never commit these)
+.env
+.env.local
+.env.*.local
